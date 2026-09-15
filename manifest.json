@@ -1,0 +1,25 @@
+{
+  "name": "Nowys",
+  "short_name": "Nowys",
+  "description": "Entrenamiento, nutrición y cardio guiado.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12140e",
+  "theme_color": "#12140e",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
